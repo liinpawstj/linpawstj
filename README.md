@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @linpawstj
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Swapnil (@linpawstj)
 - 🌱 I’m currently learning Python, ML and DataScience
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DataScience and ML Projects
+- 👀 I’m interested in ..
 - 📫 How to reach me ...
 
 <!---
