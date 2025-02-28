@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swapnil (@liinpawstj)
+- 👋 Hi, I’m Swapniiltj (@liinpawstj)
 - 🌱 I’m currently learning Python, ML and DataScience
 - 💞️ I’m looking to collaborate on DataScience and ML Projects
 - 👀 I’m interested in ..
